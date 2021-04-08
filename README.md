@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xjllhy
 - 👀 I’m interested in electronic equipment。
 - 🌱 I’m currently learning python .net core.
-- 💞️ I’m looking to collaborate on big data analysis of industrial equipment.
+- 💞️ I’m looking to collaborate on big data analysis of industrial equipment's healthy.
 - 📫 My email is xjllhy@outlook.com
 
 <!---
